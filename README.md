@@ -34,3 +34,9 @@ Develop a complete machine learning pipeline from data collection and preprocess
 - `scikit-learn`
 - `Flask`
 - `pickle`
+
+## OUTPUT
+![Image](https://github.com/user-attachments/assets/5a788afa-5a88-48a5-b809-cb6ffd045ebb)
+![Image](https://github.com/user-attachments/assets/3bbf78db-65d7-43f5-8ae1-dea265110ff3)
+
+![Image](https://github.com/user-attachments/assets/900a1e23-bf3c-4ce5-8e96-0b678860f721)
